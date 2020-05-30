@@ -1,0 +1,27 @@
+/* Created Using Easy HTML v1.4.3 */
+/* https://play.google.com/store/apps/details?id=ak.andro.easyhtml */
+
+body
+{
+  background-color:dodgerblue;
+}
+h1
+{
+  text-align:center;
+    Color:white;
+}
+h2{
+  background-color:purple;
+  border:2px solid black;
+  padding:10px 25px;
+  text-align:center;
+  margin:5px;
+  display:inline;
+  
+  }
+h4
+{
+  color:white;
+  }
+
+
